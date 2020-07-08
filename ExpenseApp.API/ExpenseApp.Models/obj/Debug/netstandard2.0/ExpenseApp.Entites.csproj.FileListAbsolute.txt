@@ -1,0 +1,7 @@
+E:\Angular_Samples\ExpenseTool\ExpenseApp.API\ExpenseApp.Models\bin\Debug\netstandard2.0\ExpenseApp.Entites.deps.json
+E:\Angular_Samples\ExpenseTool\ExpenseApp.API\ExpenseApp.Models\bin\Debug\netstandard2.0\ExpenseApp.Entites.dll
+E:\Angular_Samples\ExpenseTool\ExpenseApp.API\ExpenseApp.Models\bin\Debug\netstandard2.0\ExpenseApp.Entites.pdb
+E:\Angular_Samples\ExpenseTool\ExpenseApp.API\ExpenseApp.Models\obj\Debug\netstandard2.0\ExpenseApp.Entites.AssemblyInfoInputs.cache
+E:\Angular_Samples\ExpenseTool\ExpenseApp.API\ExpenseApp.Models\obj\Debug\netstandard2.0\ExpenseApp.Entites.AssemblyInfo.cs
+E:\Angular_Samples\ExpenseTool\ExpenseApp.API\ExpenseApp.Models\obj\Debug\netstandard2.0\ExpenseApp.Entites.dll
+E:\Angular_Samples\ExpenseTool\ExpenseApp.API\ExpenseApp.Models\obj\Debug\netstandard2.0\ExpenseApp.Entites.pdb

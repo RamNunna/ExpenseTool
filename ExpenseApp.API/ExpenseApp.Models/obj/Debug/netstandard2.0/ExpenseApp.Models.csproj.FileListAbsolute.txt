@@ -1,0 +1,8 @@
+E:\Angular_Samples\ExpenseTool\ExpenseApp.API\ExpenseApp.Models\bin\Debug\netstandard2.0\ExpenseApp.Models.deps.json
+E:\Angular_Samples\ExpenseTool\ExpenseApp.API\ExpenseApp.Models\bin\Debug\netstandard2.0\ExpenseApp.Models.dll
+E:\Angular_Samples\ExpenseTool\ExpenseApp.API\ExpenseApp.Models\bin\Debug\netstandard2.0\ExpenseApp.Models.pdb
+E:\Angular_Samples\ExpenseTool\ExpenseApp.API\ExpenseApp.Models\obj\Debug\netstandard2.0\ExpenseApp.Models.csprojAssemblyReference.cache
+E:\Angular_Samples\ExpenseTool\ExpenseApp.API\ExpenseApp.Models\obj\Debug\netstandard2.0\ExpenseApp.Models.AssemblyInfoInputs.cache
+E:\Angular_Samples\ExpenseTool\ExpenseApp.API\ExpenseApp.Models\obj\Debug\netstandard2.0\ExpenseApp.Models.AssemblyInfo.cs
+E:\Angular_Samples\ExpenseTool\ExpenseApp.API\ExpenseApp.Models\obj\Debug\netstandard2.0\ExpenseApp.Models.dll
+E:\Angular_Samples\ExpenseTool\ExpenseApp.API\ExpenseApp.Models\obj\Debug\netstandard2.0\ExpenseApp.Models.pdb

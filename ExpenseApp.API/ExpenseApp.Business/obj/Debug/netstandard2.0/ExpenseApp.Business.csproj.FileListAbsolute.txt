@@ -1,0 +1,15 @@
+E:\Angular_Samples\ExpenseTool\ExpenseApp.API\ExpenseApp.Business\bin\Debug\netstandard2.0\ExpenseApp.Business.deps.json
+E:\Angular_Samples\ExpenseTool\ExpenseApp.API\ExpenseApp.Business\bin\Debug\netstandard2.0\ExpenseApp.Business.dll
+E:\Angular_Samples\ExpenseTool\ExpenseApp.API\ExpenseApp.Business\bin\Debug\netstandard2.0\ExpenseApp.Business.pdb
+E:\Angular_Samples\ExpenseTool\ExpenseApp.API\ExpenseApp.Business\bin\Debug\netstandard2.0\ExpenseApp.Business.Contracts.dll
+E:\Angular_Samples\ExpenseTool\ExpenseApp.API\ExpenseApp.Business\bin\Debug\netstandard2.0\ExpenseApp.Entites.dll
+E:\Angular_Samples\ExpenseTool\ExpenseApp.API\ExpenseApp.Business\bin\Debug\netstandard2.0\ExpenseApp.Business.Contracts.pdb
+E:\Angular_Samples\ExpenseTool\ExpenseApp.API\ExpenseApp.Business\bin\Debug\netstandard2.0\ExpenseApp.Entites.pdb
+E:\Angular_Samples\ExpenseTool\ExpenseApp.API\ExpenseApp.Business\obj\Debug\netstandard2.0\ExpenseApp.Business.csprojAssemblyReference.cache
+E:\Angular_Samples\ExpenseTool\ExpenseApp.API\ExpenseApp.Business\obj\Debug\netstandard2.0\ExpenseApp.Business.AssemblyInfoInputs.cache
+E:\Angular_Samples\ExpenseTool\ExpenseApp.API\ExpenseApp.Business\obj\Debug\netstandard2.0\ExpenseApp.Business.AssemblyInfo.cs
+E:\Angular_Samples\ExpenseTool\ExpenseApp.API\ExpenseApp.Business\obj\Debug\netstandard2.0\ExpenseApp.Business.csproj.CopyComplete
+E:\Angular_Samples\ExpenseTool\ExpenseApp.API\ExpenseApp.Business\obj\Debug\netstandard2.0\ExpenseApp.Business.dll
+E:\Angular_Samples\ExpenseTool\ExpenseApp.API\ExpenseApp.Business\obj\Debug\netstandard2.0\ExpenseApp.Business.pdb
+E:\Angular_Samples\ExpenseTool\ExpenseApp.API\ExpenseApp.Business\bin\Debug\netstandard2.0\ExpenseApp.Repository.Contracts.dll
+E:\Angular_Samples\ExpenseTool\ExpenseApp.API\ExpenseApp.Business\bin\Debug\netstandard2.0\ExpenseApp.Repository.Contracts.pdb
